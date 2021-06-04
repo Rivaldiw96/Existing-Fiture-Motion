@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AN_Motion_Bank_Already_Registered</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>309a11ff-609f-4740-aa31-7fa7399018c9</testCaseGuid>
+   <variable>
+      <defaultValue>'6017 8005 6229 0222'</defaultValue>
+      <description></description>
+      <id>947c7f98-efad-40ab-ad2c-18c67c5490cf</id>
+      <masked>false</masked>
+      <name>No_Kartu</name>
+   </variable>
+</TestCaseEntity>
